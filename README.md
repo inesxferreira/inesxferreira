@@ -4,16 +4,7 @@
 #### <p align="center"> 🎓 Currently, I'm studying Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a> and <a href="https://www.uni-freiburg.de/">University of Freiburg</a>.
 
 
-# 📊 GitHub Stats
-<div align="center">
-  
- # 📊 GitHub Stats
-<div align="center">
-  
-  ![Inês's GitHub stats](https://github-readme-stats.vercel.app/api?username=inesxferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
-  
 
-</div>
 
 </div>
 
