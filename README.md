@@ -12,7 +12,6 @@
   
   ![Inês's GitHub stats](https://github-readme-stats.vercel.app/api?username=inesxferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inesxferreira&layout=compact&theme=dracula&include_all_commits=true&count_private=true&hide_border=true)
 
 </div>
 
