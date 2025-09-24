@@ -1,7 +1,7 @@
 # About Me
 ### <p align="center"> Hello there, I'm Inês!
 #### <p align="center"> 📍 I'm from Penafiel, Porto.
-#### <p align="center"> 🎓 Currently, I'm studying Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a> and <a href="https://www.uni-freiburg.de/">University of Freiburg</a>.
+#### <p align="center"> 🎓 Currently, I'm studying Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a>.
 
 
 
